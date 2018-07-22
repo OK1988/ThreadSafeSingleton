@@ -1,0 +1,2 @@
+# ThreadSafeSingleton
+Thread safe singleton
